@@ -2,15 +2,19 @@
 
 VPS:
 Contabo.de / .com
-
+vultr.com
+digitalocean.com
+bero-host.de
 
 
 
 Webspace:
-
-
+ophosting.net
+hostinger.com
+strato.de
 
 
 Domains:
-
+hostinger.com
+strato.de
 
